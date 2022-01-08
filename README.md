@@ -1,10 +1,10 @@
 
-# test project
+# A test Project
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
   
   ## Description
   
-   description
+   A description about my project
    
   ## Table of Contents
   * [Installation](#installation)
@@ -17,7 +17,7 @@
   ## Installation
   npm i
   ## Usage
-  nothing
+  Its easy, just answer question
   ## License
   https://opensource.org/licenses/MIT
   This project is under the license of MIT
